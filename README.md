@@ -1,2 +1,2 @@
 # Thiem_Thesis_Oviducatal-Egg-Retention
-This is a git repository for my thesis masters thesis analysis 
+This is a git repository for my thesis masters thesis analysis: Holding on for One more Day: Oviductal egg retention as an energetically inexpensive mechanism for flexible reproductive phenology in Eastern Musk Turtles (Sternotherus odoratus)  
